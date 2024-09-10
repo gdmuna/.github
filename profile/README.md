@@ -15,6 +15,7 @@
 
 ![猫鱼cp2](https://github.com/gdmuna/.github/blob/main/profile/NA_ACM2.jpg?raw=true)
 
+![猫鱼海报](https://github.com/gdmuna/.github/blob/main/profile/NA_ACM3.jpg?raw=true)
 
 由我们这里最伟大的画师 [egg大魔王](https://eggdamowang.art)  创作。
 
