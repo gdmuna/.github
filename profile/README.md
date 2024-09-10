@@ -27,7 +27,7 @@
 
 
 ## 🐾团队的吉祥物
-这是我们我们团队的吉祥物——“猫”（Modem）与 “鱼”（key）。
+这是我们我们团队的吉祥物——“鱼”（key）与 “猫”（Modem）。
 
 ![猫鱼cp](https://github.com/gdmuna/.github/blob/main/profile/NA_ACM.jpg?raw=true)
 
