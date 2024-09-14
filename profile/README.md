@@ -4,7 +4,7 @@
 
 我们怀着对开源的热爱，开辟了此处“一心净土”，并欢迎各位的到来。
 
-![团队画像](https://github.com/gdmuna/.github/blob/main/profile/TeamDiagram.jpg?raw=true)
+![团队画像](https://github.com/gdmuna/.github/blob/main/profile/Team.jpg?raw=true)
 
  
 
