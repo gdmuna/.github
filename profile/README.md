@@ -37,4 +37,4 @@
 
 他们由我们最最最伟大的画师 [egg大魔王](https://eggdamowang.art)  创作。
 
-![吉祥物与亲妈](https://github.com/gdmuna/.github/blob/main/profile/cat_egg.jpg?raw=true)
+![吉祥物与亲妈](https://github.com/gdmuna/.github/blob/main/profile/egg.jpg?raw=true)
