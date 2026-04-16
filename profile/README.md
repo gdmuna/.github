@@ -18,26 +18,23 @@
 ## 💉为学校信息化做出贡献
 我们参与了许多学校主导的信息化项目，并为其做出贡献，同时，我们也维护我们自己的开源项目。
 
-*  [DynamicQR 活码平台](https://github.com/gdmuna/DynamicQR) - 防止广告机器人进入你的微信聊天群
+*  [Nekorify 前端](https://github.com/gdmuna/Nekorify-front) - 一个为高校协会打造的集招新宣传、资源管理与成员交流的一体化服务平台
 
-*  [小型生物存储盒管理系统](https://github.com/gdmuna/biological-storage-box) - 储物盒最好的系统
+*  [RanaMinder 后端](https://github.com/gdmuna/biological-storage-box) - 一个专注于社团人力资源（HRM）的高效解决方案，集成成员管理与面试事务流程
 
-*  [社团内部管理与辅助决策系统](https://github.com/gdmuna/na-copilot) - 信息化你的社团
-
+*  [社团内部管理与辅助决策系统](https://github.com/gdmuna/IASP-ZhiXiaoYi) - 广东医科大学“智小医”智能体服务平台
 
 
 ## 🐾团队的吉祥物
 这是我们我们团队的吉祥物——“鱼”（key）与 “猫”（Modem）。
 
-![猫鱼cp](https://github.com/gdmuna/.github/blob/main/profile/NA_ACM.jpg?raw=true)
-
-![猫鱼cp2](https://github.com/gdmuna/.github/blob/main/profile/NA_ACM2.jpg?raw=true)
-
-![猫鱼海报](https://github.com/gdmuna/.github/blob/main/profile/NA_ACM3.jpg?raw=true)
-
-他们由我们最最最伟大的画师 [egg大魔王](https://eggdamowang.art)  创作。
+![猫鱼cp](https://github.com/gdmuna/.github/blob/main/profile/key_modem.png?raw=true)
 
 
-<div align="center">
- <img alt="logo" height="400px" src="https://github.com/gdmuna/.github/blob/main/profile/egg.jpg?raw=true">
-</div>
+## 🤝 如何加入我们
+
+*   **为我们的项目提交PR**：我们欢迎任何形式的贡献，无论是代码、文档还是建议。
+*   **参与我们的活动**：关注我们的社团，参与我们举办的各类技术分享和比赛。
+*   **联系我们**：通过[邮箱/微信群]与我们取得联系。
+
+
